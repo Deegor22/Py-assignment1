@@ -10,4 +10,4 @@ print("Multiplication: ",a*b)
 if b != 0:
   print("Division: ",a/b)
 else:
-  print("Division cannot be divided by 0")
+  print("Division: cannot be divided by 0")
